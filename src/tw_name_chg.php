@@ -1,6 +1,6 @@
 <?php
 
-namespace zip358\tw_name_change\tw_name_change;
+namespace zip358\tw_name_change\tw_name_chg;
 
 ini_set("display_errors", 0);
 
@@ -17,7 +17,7 @@ use zip358\tw_name_change\moon;
 use zip358\tw_name_change\tenki;
 use Abraham\TwitterOAuth\TwitterOAuth;
 
-class tw_name_change
+class tw_name_chg
 {
 
   function main()
