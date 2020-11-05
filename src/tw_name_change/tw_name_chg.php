@@ -1,6 +1,6 @@
 <?php
 
-namespace zip358\tw_name_change;
+namespace zip358\tw_name_change\tw_name_change;
 
 ini_set("display_errors", 0);
 
