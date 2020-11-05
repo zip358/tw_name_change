@@ -1,0 +1,237 @@
+{
+    "hokkaido": {
+        "id": "2130037",
+        "kenmei": "北海道",
+        "kenfurigana": "ほっかいどう"
+    },
+    "aomori": {
+        "id": "2130656",
+        "kenmei": "青森県",
+        "kenfurigana": "あおもり"
+    },
+    "iwate": {
+        "id": "2112518",
+        "kenmei": "岩手県",
+        "kenfurigana": "いわて"
+    },
+    "miyagi": {
+        "id": "2111888",
+        "kenmei": "宮城県",
+        "kenfurigana": "みやぎ"
+    },
+    "akita": {
+        "id": "2113124",
+        "kenmei": "秋田県",
+        "kenfurigana": "あきた"
+    },
+    "yamagata": {
+        "id": "2110554",
+        "kenmei": "山形県",
+        "kenfurigana": "やまがた"
+    },
+    "fukushima": {
+        "id": "2112923",
+        "kenmei": "福島県",
+        "kenfurigana": "ふくしま"
+    },
+    "ibaraki": {
+        "id": "2112669",
+        "kenmei": "茨城県",
+        "kenfurigana": "いばらき"
+    },
+    "tochigi": {
+        "id": "1850310",
+        "kenmei": "栃木県",
+        "kenfurigana": "とちぎ"
+    },
+    "gunma": {
+        "id": "1863501",
+        "kenmei": "群馬県",
+        "kenfurigana": "ぐんま"
+    },
+    "saitama": {
+        "id": "1853226",
+        "kenmei": "埼玉県",
+        "kenfurigana": "さいたま"
+    },
+    "chiba": {
+        "id": "2113014",
+        "kenmei": "千葉県",
+        "kenfurigana": "ちば"
+    },
+    "tokyo": {
+        "id": "1850144",
+        "kenmei": "東京都",
+        "kenfurigana": "とうきょう"
+    },
+    "kanagawa": {
+        "id": "1860291",
+        "kenmei": "神奈川県",
+        "kenfurigana": "かながわ"
+    },
+    "niigata": {
+        "id": "1855429",
+        "kenmei": "新潟県",
+        "kenfurigana": "にいがた"
+    },
+    "toyama": {
+        "id": "1849872",
+        "kenmei": "富山県",
+        "kenfurigana": "とやま"
+    },
+    "ishikawa": {
+        "id": "1861387",
+        "kenmei": "石川県",
+        "kenfurigana": "いしかわ"
+    },
+    "fukui": {
+        "id": "1863983",
+        "kenmei": "福井県",
+        "kenfurigana": "ふくい"
+    },
+    "yamanashi": {
+        "id": "1848649",
+        "kenmei": "山梨県",
+        "kenfurigana": "やまなし"
+    },
+    "nagano": {
+        "id": "1856210",
+        "kenmei": "長野県",
+        "kenfurigana": "ながの"
+    },
+    "gifu": {
+        "id": "1863640",
+        "kenmei": "岐阜県",
+        "kenfurigana": "ぎふ"
+    },
+    "shizuoka": {
+        "id": "1851715",
+        "kenmei": "静岡県",
+        "kenfurigana": "しずおか"
+    },
+    "aichi": {
+        "id": "1865694",
+        "kenmei": "愛知県",
+        "kenfurigana": "あいち"
+    },
+    "mie": {
+        "id": "1857352",
+        "kenmei": "三重県",
+        "kenfurigana": "みえ"
+    },
+    "shiga": {
+        "id": "1852553",
+        "kenmei": "滋賀県",
+        "kenfurigana": "しが"
+    },
+    "kyoto": {
+        "id": "1857907",
+        "kenmei": "京都府",
+        "kenfurigana": "きょうと"
+    },
+    "osaka": {
+        "id": "1853909",
+        "kenmei": "大阪府",
+        "kenfurigana": "おおさか"
+    },
+    "hyogo": {
+        "id": "1862047",
+        "kenmei": "兵庫県",
+        "kenfurigana": "ひょうご"
+    },
+    "nara": {
+        "id": "1855608",
+        "kenmei": "奈良県",
+        "kenfurigana": "なら"
+    },
+    "wakayama": {
+        "id": "1848938",
+        "kenmei": "和歌山県",
+        "kenfurigana": "わかやま"
+    },
+    "tottori": {
+        "id": "1849890",
+        "kenmei": "鳥取県",
+        "kenfurigana": "とっとり"
+    },
+    "shimane": {
+        "id": "1852442",
+        "kenmei": "島根県",
+        "kenfurigana": "しまね"
+    },
+    "okayama": {
+        "id": "1854381",
+        "kenmei": "岡山県",
+        "kenfurigana": "おかやま"
+    },
+    "hiroshima": {
+        "id": "1862413",
+        "kenmei": "広島県",
+        "kenfurigana": "ひろしま"
+    },
+    "yamaguchi": {
+        "id": "1848681",
+        "kenmei": "山口県",
+        "kenfurigana": "やまぐち"
+    },
+    "tokushima": {
+        "id": "1850157",
+        "kenmei": "徳島県",
+        "kenfurigana": "とくしま"
+    },
+    "kagawa": {
+        "id": "1860834",
+        "kenmei": "香川県",
+        "kenfurigana": "かがわ"
+    },
+    "ehime": {
+        "id": "1864226",
+        "kenmei": "愛媛県",
+        "kenfurigana": "えひめ"
+    },
+    "kochi": {
+        "id": "1859133",
+        "kenmei": "高知県",
+        "kenfurigana": "こうち"
+    },
+    "fukuoka": {
+        "id": "1863958",
+        "kenmei": "福岡県",
+        "kenfurigana": "ふくおか"
+    },
+    "saga": {
+        "id": "1853303",
+        "kenmei": "佐賀県",
+        "kenfurigana": "さが"
+    },
+    "nagasaki": {
+        "id": "1856156",
+        "kenmei": "長崎県",
+        "kenfurigana": "ながさき"
+    },
+    "kumamoto": {
+        "id": "1858419",
+        "kenmei": "熊本県",
+        "kenfurigana": "くまもと"
+    },
+    "oita": {
+        "id": "1854484",
+        "kenmei": "大分県",
+        "kenfurigana": "おおいた"
+    },
+    "miyazaki": {
+        "id": "1856710",
+        "kenmei": "宮崎県",
+        "kenfurigana": "みやざき"
+    },
+    "kagoshima": {
+        "id": "1860825",
+        "kenmei": "鹿児島県",
+        "kenfurigana": "かごしま"
+    },
+    "okinawa": {
+        "id": "1854345",
+        "kenmei": "沖縄県",
+        "kenfurigana": "おきなわ"
+    }
+}
