@@ -2,6 +2,7 @@
 
 1.コマンドより実行する。  
 2.cronより定期実行を行ってください。  
+※正規表現に使われている記号は使用できません。  
 
 ```
 composer require zip358/tw_name_change
