@@ -37,7 +37,7 @@ class tw_name_chg
 
     if ($H >= 6 and $H <= 17) {
       tenki::main();
-      tenki::$url = "https://api.openweathermap.org/data/2.5/weather?id=" . tenki::$ken->kenno[KENNO]->id . "&appid=" . tenki::$appid;
+      tenki::$url = "https://api.openweathermap.org/data/2.5/weather?id=" . tenki::$ken->kenno[KENNO]["id"] . "&appid=" . tenki::$appid;
       tenki::api();
       $chg = tenki::$icon[str_replace("n", "d", tenki::$response->weather[0]["icon"])];
     } else {
