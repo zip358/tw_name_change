@@ -2,6 +2,11 @@
 
 1.コマンドより実行する。  
 2.cronより定期実行を行ってください。  
+
+```
+composer require zip358/tw_name_change
+```
+
   
 ```
 php  Twitter_name_change.php
