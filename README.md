@@ -1,7 +1,21 @@
 ### Twitterの名前を■部分を天気予報のアイコン、夜は月のアイコンへと変更する。
 
 1.コマンドより実行する。  
-2.cronより定期実行を行ってください。  
+2.cronより定期実行を行ってください。
+
+**defineの補足**  
+
+---------
+  
++ [OPENWEATHERMAP](https://openweathermap.org/)のAPI_IDが必要です(ユーザー登録が必要です)。
++ [Twitter API](https://developer.twitter.com/ja/docs) 登録しCONSUMER_KEYなどのキーが必要です。
++ Twitterのユーザー名が必要です（自分）。
++ KENNOは下記のテーブルを参照ください。
++ KIGOUは置き換える文字です。
+  
+---------
+
+
 ※正規表現に使われている記号は使用できません。  
 
 ```
