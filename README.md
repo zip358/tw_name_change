@@ -1,12 +1,13 @@
 ### Twitterの名前を■部分を天気予報のアイコン、夜は月のアイコンへと変更する。
 
-1.コマンドより実行する。
-
+1.コマンドより実行する。  
+2.cronより定期実行を行ってください。  
+  
 ```
 php  Twitter_name_change.php
 
 ```
-
+  
 ```php:Twitter_name_change.php
 if($argv[0]){
 	require './vendor/autoload.php';
