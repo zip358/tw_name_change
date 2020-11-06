@@ -1,5 +1,5 @@
 <?php
-namespace zip358\tw_name_change\monn;
+namespace zip358\tw_name_change;
 class moon{
     static public $icon = array(
         "0"=>'🌑',//朔

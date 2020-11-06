@@ -1,5 +1,5 @@
 {
-	"name": "zip358com/tw_name_change",
+	"name": "zip358/tw_name_change",
 	"type": "library",
 	"version": "1.0.0",
     "description": "Twitterの名前を■部分を天気予報のアイコン、夜は月のアイコンへと変更する。",
@@ -19,7 +19,7 @@
 	  ],	
     "autoload": {
         "psr-4": {
-            "zip358com\\tw_name_change\\": "src"
+            "zip358\\tw_name_change\\": "src"
         }
     }
 }

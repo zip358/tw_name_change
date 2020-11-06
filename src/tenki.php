@@ -1,5 +1,5 @@
 <?php
-namespace zip358\tw_name_change\tenki;
+namespace zip358\tw_name_change;
 //Openweathermap_api
 class tenki{
     static public $url = "https://api.openweathermap.org/data/2.5/weather?id=";

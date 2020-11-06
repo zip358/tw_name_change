@@ -1,6 +1,6 @@
 <?php
 
-namespace zip358\tw_name_change\tw_name_chg;
+namespace zip358\tw_name_change;
 
 ini_set("display_errors", 0);
 
@@ -22,6 +22,7 @@ class tw_name_chg
 
   function main()
   {
+    echo "test";
     $user_screen_name = USER_SCREEN_NAME;
     $connection = new TwitterOAuth(CONSUMER_KEY, CONSUMER_SECRET, ACCESS_TOKEN, ACCESS_TOKEN_SECRET);
 
