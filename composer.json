@@ -1,7 +1,7 @@
 {
 	"name": "zip358/tw_name_change",
 	"type": "library",
-	"version": "1.0.0",
+	"version": "1.0.2",
     "description": "Twitterの名前を■部分を天気予報のアイコン、夜は月のアイコンへと変更する。",
 	"license": "MIT",
 	"homepage": "https://zip358.com",
