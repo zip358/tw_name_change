@@ -19,7 +19,7 @@ class tenki{
     );
     static function main()
     {
-        static::$ken = (object)(json_decode(@file_get_contents("ken.json"),true));
+        static::$ken = (object)(json_decode(@file_get_contents(__DIR__."/ken.json"),true));
     }
 
     static function api(){

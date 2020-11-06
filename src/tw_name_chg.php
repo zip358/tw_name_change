@@ -29,7 +29,7 @@ class tw_name_chg
     $name = $user_data->name;
 
     date_default_timezone_set(TIME_ZONE);
-    $icons = moon::$icon + tenki::$icon + array("■" => "■");
+    $icons = moon::$icon + tenki::$icon + array(KIGOU => KIGOU);
     $year = date("Y");
     $mon = (int) date("m");
     $day = (int) date("d");

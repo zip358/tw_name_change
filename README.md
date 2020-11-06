@@ -12,6 +12,7 @@ php  Twitter_name_change.php
 if($argv[0]){
 	require './vendor/autoload.php';
 	use zip358\tw_name_change\tw_name_change;
+	define("KIGOU","■");
 	define("KENNO","KENNO");
 	define("TIME_ZONE","TIME_ZONE");
 	define("OPENWEATHERMAP_API_ID","Openweathermap_api_id");
