@@ -16,7 +16,7 @@ php  Twitter_name_change.php
 ```php:Twitter_name_change.php
 if($argv[0]){
 	require './vendor/autoload.php';
-	use zip358\tw_name_change\tw_name_change;
+	use zip358\tw_name_change\tw_name_chg;
 	define("KIGOU","■");
 	define("KENNO","KENNO");
 	define("TIME_ZONE","TIME_ZONE");
@@ -26,7 +26,7 @@ if($argv[0]){
 	define("CONSUMER_SECRET", "CONSUMER_SECRET");
 	define("ACCESS_TOKEN", "ACCESS_TOKEN");
 	define("ACCESS_TOKEN_SECRET", "ACCESS_TOKEN_SECRET");
-	$tw_name_change = new tw_name_change();
+	$tw_name_change = new tw_name_chg();
 	$tw_name_change->main();
 }
 ```
